@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vxIIgzfwtEvcvlRAMKSolTUf6NBeJ7CQP3e/TYS1m/5DBj3g7NWuzADaYNuAhWsK+nFdjNjlJEt1gUnraQS0QA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bandix\\Desktop\\dz_6\\Task41\\Task41.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bandix\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.0-rc.2.21480.5\\microsoft.netcore.app.ref.6.0.0-rc.2.21480.5.nupkg.sha512",
+    "C:\\Users\\Bandix\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.0-rc.2.21480.5\\microsoft.netcore.app.host.win-x64.6.0.0-rc.2.21480.5.nupkg.sha512"
+  ],
+  "logs": []
+}
